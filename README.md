@@ -1,7 +1,7 @@
 <h1 align="center">Ahoj, jsem Sam, ale na internetu vystupuji s přezdívkou ponesicek</h1>
 <h3 align="center">Fanoušek foss, linuxu a c++</h3>
 
-- 🔭 Pracuji na **FPS střílečce**
+- 🔭 Pracuji na **Souls hře**
 
 - 🌱 Studuji na **SSPŠ**
 
